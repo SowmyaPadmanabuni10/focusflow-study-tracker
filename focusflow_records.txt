@@ -1,0 +1,4 @@
+Subject: python | Hours: 2.0 | Focus Rating: 8
+Subject: sql | Hours: 5.0 | Focus Rating: 9
+Subject: css | Hours: 2.0 | Focus Rating: 10
+Subject: html | Hours: 6.0 | Focus Rating: 9
